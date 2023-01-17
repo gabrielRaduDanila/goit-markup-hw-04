@@ -162,6 +162,7 @@ main {
 .hero-button:hover,
 .hero-button:focus {
     cursor: pointer;
+    background-color: #214bf3;
 }
 
 /* ----- our characteristics style ------- */
